@@ -1,0 +1,36 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  background: rgb(255, 255, 255);
+  color: rgb(0,0,0);
+  font-family: 'Lora';
+  font-size: 17px;
+  font-weight: lighter
+}
+
+
+h1, h2 {
+  font-family: 'Avenir';
+}
+
+
+.avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+a {
+  text-decoration: none;
+  color: #011A3C;
+}
+
+a:hover {
+  color: rgb(200, 200, 200);
+}
+
+
+
